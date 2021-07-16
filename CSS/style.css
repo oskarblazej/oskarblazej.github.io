@@ -9,7 +9,7 @@ header{
     font-family:sans-serif;
     padding: 5px;
     border: 3px solid white;
-    font-size: 30px;
+    font-size: 40px;
     }
 .box{
 
@@ -21,3 +21,11 @@ header{
     color: black;
     border: solid 2px white;
     }
+
+h1#progress{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    padding-top: 250px;
+    letter-spacing: 10px;
+}
