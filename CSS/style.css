@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(65, 65, 65);;
+    color: white;
+}
+header{
+    background-color: springgreen;
+    color: black;
+    text-align: center;
+    font-family:sans-serif;
+    padding: 5px;
+    border: 3px solid white;
+    font-size: 30px;
+    }
+.box{
+
+    text-align: center;
+    margin: 15px;
+    padding: 2px;
+    font-size: 18px;
+    font-family:sans-serif;
+    background-color: white;
+    color: black;
+    }
