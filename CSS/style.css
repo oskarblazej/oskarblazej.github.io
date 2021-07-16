@@ -16,7 +16,8 @@ header{
     text-align: center;
     margin: 15px;
     padding: 2px;
-    font-size: 18px;
+    font-size: 25px;
     font-family:sans-serif;
     color: black;
+    border: solid 2px white;
     }
